@@ -1,0 +1,14 @@
+.botao:hover{
+    -fx-background-color:#A9BAEA;
+    -fx-border-color: #95F50D;   
+    -fx-border-radius: 50; 
+       
+}
+
+
+.titulo:hover{
+    -fx-background-color:#FBFDF9;
+    -fx-opacity:30;
+     
+    
+}
